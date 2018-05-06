@@ -1,6 +1,8 @@
 This is my IGCSE Grade 11 Design and Communication Project. I'm working on Theme 10: "Consider the situation where a company that manufactures computer games and accessories requires a point of sale display stand for a hand-held controller complete with a rechargeable battery pack." If you check out the date of this repository you'll get to know that I'm a bit late, 
 but hey, I work best on tight deadlines :P.
 
+Update: I got 100/100 in the project :) I haven't uploaded all the files but hope to find the will to do so soon.
+
 ![alt text](https://i.pinimg.com/736x/86/c2/94/86c294de4d5e9ad93242b650ff99f047--abraham-lincoln-quotes-business-quotes.jpg)
 
 ## Other IGCSE Projects
